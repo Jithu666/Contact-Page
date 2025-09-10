@@ -1,12 +1,25 @@
-# React + Vite
+**_Contact Us Page_**
+A simple and responsive Contact Us page built with React and Tailwind CSS. This project demonstrates component-based design with a modern UI, featuring a header with a logo and a hero section that includes a form and image.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**_✨ Features_**
 
-Currently, two official plugins are available:
+Header Component
+Displays a logo or icon for branding.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hero Component
+Contact form with input fields for user details.
+Hero image section for visual appeal.
 
-## Expanding the ESLint configuration
+**_Responsive Design_**
+Styled with Tailwind CSS for a seamless look across desktop, tablet, and mobile devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**_🛠️ Tech Stack_**
+React – component-based UI library.
+Tailwind CSS – utility-first CSS framework for styling.
+
+**_🚀 Getting Started_**
+
+**Prerequisites**
+Make sure you have Node.js and npm (or yarn) installed.
+
+![alt text](<public/Contact us page Screenshot.png>)
